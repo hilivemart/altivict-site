@@ -12,7 +12,7 @@ import { useState } from "react";
  * 进阶：将来想换自建后端（EdgeOne Pages Function），把 handleSubmit 里
  *       fetch("https://api.web3forms.com/submit", ...) 换成 fetch("/api/inquiry", ...) 即可。
  */
-const WEB3FORMS_ACCESS_KEY = "请替换为你的WEB3FORMS_ACCESS_KEY";
+const WEB3FORMS_ACCESS_KEY = "6965bb95-0d01-451a-ada9-890bfcc5da82";
 
 const PRODUCT_OPTIONS = [
   "Blank Golf Caps — Wholesale Stock Program",

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { CONTACT, UI } from '../data.jsx';
 import { useLang } from '../i18n.jsx';
 
-const WEB3FORMS_KEY = 'WEB3FORMS-ACCESS-KEY-HERE'; // TODO: replace with real Access Key
+const WEB3FORMS_KEY = '6965bb95-0d01-451a-ada9-890bfcc5da82';
 
 export default function InquiryForm({ compact = false }) {
   const { t } = useLang();
